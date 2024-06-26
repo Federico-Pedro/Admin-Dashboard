@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    border: solid 1px white; 
+    color: yellow;
+    list-style: none;
+}
+
+body {
+    background-color: rgb(46, 45, 45);
+    display: grid;
+    grid-template-columns: 2fr 7fr;
+    height: 100vh;
+}
